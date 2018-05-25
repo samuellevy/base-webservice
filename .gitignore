@@ -1,0 +1,27 @@
+
+#NPM
+/node_modules
+/node_modules/*
+
+#EDITORS
+/.vscode/
+
+#CAKEPHP
+/logs
+/logs/*
+/tmp
+/tmp/*
+
+#VENDORS
+/vendor
+/vendor/*
+
+/config/app.php
+/plugins/Site/webroot
+
+/plugins/Gerenciador/webroot
+
+.DS_Store
+
+ package-lock.json
+ composer.lock
